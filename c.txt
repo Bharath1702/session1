@@ -1,3 +1,0 @@
-local system         ------       remote repo
-local repo
-remote repo
